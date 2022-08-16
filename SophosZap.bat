@@ -2,6 +2,4 @@ md c:\temp
 
 xcopy \\utlsoftdeploy\installs\Sophos\SophosZap.exe C:\temp\
 
-cd c:\temp
-
-start .\SophosZap.exe --confirm
+start c:\temp\SophosZap.exe --confirm
