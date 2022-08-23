@@ -1,1 +1,1 @@
-%WINDIR%\CarbonBlack\uninst.exe /S
+C:\Windows\CarbonBlack\uninst.exe /S
